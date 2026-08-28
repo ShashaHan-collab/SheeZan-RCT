@@ -24,14 +24,12 @@ This repository contains the statistical analysis, data visualization code and t
 
 ## Prerequisite R packages
 * dplyr
-* ggbeeswarm
-* glue
 * tibble
 * ggplot2
 * cowplot
 * grid
-* binom
-* ggpattern
+* Cairo
+* ggnewscale
 
 
 # Repository Contents
