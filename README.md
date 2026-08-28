@@ -1,5 +1,5 @@
 # SheeZan-RCT
-This repository contains the statistical analysis and data visualization code and the agentic system architecture associated with the research project:
+This repository contains the statistical analysis, data visualization code and the agentic system architecture associated with the research project:
 
 > A generative AI approach promotes real-world mental health help-seeking in adolescents
 
