@@ -44,7 +44,7 @@ This repository contains the statistical analysis, data visualization code and t
 ## Data visualization
 Use the data in `Source data/` with the plotting code in `Source plot/` to regenerate Figures and Extended Data Figures.
 
-## Agentic system
+## Agentic system (Working....)
 The `Agentic system/`  directory contains the functional code architecture for a conversational agent that combines full‑duplex voice with synchronous text to create a non-judgemental relational context for exploring stress, building plans, and cognitive preparation. The functional code architecture comprises a central dialogue orchestrator, two coping-skills training agents, and three specialized modules: a risk assessment agent, a personalization engine, and a dialogue-monitor agent. 
 
 A **README file in this directory** provides setup and usage instructions for the demonstration system: install dependencies from requirements.txt, configure the OpenAI-compatible API endpoint and model names in config.py, and launch main.py. The repository also includes illustrative prompt templates and a toy example so that one can test the function.
