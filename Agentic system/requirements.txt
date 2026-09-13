@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai>=1.40
+pydantic
+filelock
+dashscope
+websockets

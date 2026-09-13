@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96"
+     role="img" aria-label="Companion">
+  <defs>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffc46b"/>
+      <stop offset="100%" stop-color="#ff8a3d"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="26" fill="url(#warm)"/>
+  <path fill="#fff" d="M28 30h40a10 10 0 0 1 10 10v18a10 10 0 0 1-10 10H52L38 78V68h-10a10 10 0 0 1-10-10V40a10 10 0 0 1 10-10z"/>
+  <g fill="#ff8a3d">
+    <circle cx="36" cy="49" r="4"/>
+    <circle cx="48" cy="49" r="4"/>
+    <circle cx="60" cy="49" r="4"/>
+  </g>
+</svg>
